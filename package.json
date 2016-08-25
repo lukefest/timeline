@@ -1,5 +1,5 @@
 {
-  "name": "este",
+  "name": "Timeline v0.1",
   "private": true,
   "//": "Check all github.com/este/este#dev-tasks",
   "scripts": {
@@ -92,6 +92,7 @@
     "raven-js": "^3.0.3",
     "react": "^15.3.1",
     "react-addons-test-utils": "^15.3.1",
+    "react-big-calendar": "^0.10.3",
     "react-dom": "^15.3.1",
     "react-gravatar": "^2.4.4",
     "react-helmet": "^3.0.0",
@@ -138,5 +139,8 @@
     "webpack-hot-middleware": "^2.8.1",
     "webpack-isomorphic-tools": "^2.2.24",
     "yargs": "^5.0.0"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.29.0"
   }
 }

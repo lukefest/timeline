@@ -17,10 +17,10 @@ nconf.defaults({
   defaultLocale: 'en',
   firebase: {
     // To get the config, just click Add web app from the overview page.
-    apiKey: 'AIzaSyDZRAOrDErAaC-TCKbr4cMzaohsPR4sWgU',
-    authDomain: 'este.firebaseapp.com',
-    databaseURL: 'https://este.firebaseio.com',
-    storageBucket: 'project-808488257248094054.appspot.com',
+    apiKey: "AIzaSyC_8LNS6fRwW_LK0Bv07XPpOg5JS1szsZM",
+    authDomain: "timeline-b890a.firebaseapp.com",
+    databaseURL: "https://timeline-b890a.firebaseio.com",
+    storageBucket: "timeline-b890a.appspot.com",
   },
   googleAnalyticsId: 'UA-XXXXXXX-X',
   isProduction: process.env.NODE_ENV === 'production',

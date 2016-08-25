@@ -122,8 +122,8 @@ React Native: [Getting Started](https://facebook.github.io/react-native/docs/get
 
 ## Customize Este App
 
-- set name in `package.json`
-- set locales, firebaseUrl, sentryUrl, etc. in `src/server/config.js`
+DONE - set name in `package.json`
+DONE - set locales, firebaseUrl, sentryUrl, etc. in `src/server/config.js`
 - remove unused locale-data from `src/browser/index.js`
 - set routes in `src/browser/createRoutes.js` and `src/native/routes.js`
 - set title, links, etc. in `src/browser/app` and `src/native/app` dirs
